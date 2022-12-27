@@ -1,0 +1,22 @@
+.main{
+    text-align: center;
+    background-color: rgb(26, 135, 178);
+    width: 180px;
+    border-radius: 10px;
+    font-weight: bold;
+    /* margin-left: 1000px;
+    margin-bottom: 20px; */
+    height: 23px;
+    margin-left: 850px;
+    position: relative;
+    bottom: 500px;
+    
+  
+    
+}
+
+
+.proof{
+    color: rgb(220, 212, 51);
+
+}
